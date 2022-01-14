@@ -1,10 +1,20 @@
+# **Killian ALLAIRE** aka _lazyKeru_
+
+## 📈 GitHub Stats
+
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyKeru&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyKeru)](https://github.com/anuraghazra/github-readme-stats)  
 |---|---|
 
-### A few facts about me
+## 📣 A few facts about me
 
 - 🌱 I’m currently studying at IMT Nord Europe
 - 🔭 I’m currently working on a school project
+
+## 🌱 my most recent activity on GitHub
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 
 <!--
