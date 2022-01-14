@@ -9,10 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Activity
-    env:
-      VERSION: v2.3.2
     steps:
       - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@${{env.VERSION}}
+      - uses: Readme-Workflows/recent-activity@v2.3.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
