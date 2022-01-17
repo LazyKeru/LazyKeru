@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [LazyKeru/UV-AADA-BigMart](https://github.com/LazyKeru/UV-AADA-BigMart)
-2. ✔️ Closed issue [#1](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique/issues/1) in [LazyKeru/UV-AADA-projet-apprentissage-automatique](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique)
-3. ⭐ Starred [RomainGuarinoni/findAMusicianFrontend](https://github.com/RomainGuarinoni/findAMusicianFrontend)
-4. ⭐ Starred [RomainGuarinoni/findAMusicianBackend](https://github.com/RomainGuarinoni/findAMusicianBackend)
-5. ⭐ Starred [TheoTaffin/AADA](https://github.com/TheoTaffin/AADA)
+1. 📔 Created new repository [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
+2. 📔 Created new repository [LazyKeru/UV-AADA-BigMart](https://github.com/LazyKeru/UV-AADA-BigMart)
+3. ✔️ Closed issue [#1](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique/issues/1) in [LazyKeru/UV-AADA-projet-apprentissage-automatique](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique)
+4. ⭐ Starred [RomainGuarinoni/findAMusicianFrontend](https://github.com/RomainGuarinoni/findAMusicianFrontend)
+5. ⭐ Starred [RomainGuarinoni/findAMusicianBackend](https://github.com/RomainGuarinoni/findAMusicianBackend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 17th, 2022, 2:36:56 PM
+Last Updated: Monday, January 17th, 2022, 3:12:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
