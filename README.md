@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [LazyKeru/AADA_2022](https://github.com/LazyKeru/AADA_2022) from [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
-2. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
-3. 📔 Created new repository [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
-4. 📔 Created new repository [LazyKeru/UV-AADA-BigMart](https://github.com/LazyKeru/UV-AADA-BigMart)
-5. ✔️ Closed issue [#1](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique/issues/1) in [LazyKeru/UV-AADA-projet-apprentissage-automatique](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique)
+1. 🎉 Merged PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
+2. 💪 Opened PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
+3. 🔱 Forked [LazyKeru/AADA_2022](https://github.com/LazyKeru/AADA_2022) from [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
+4. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
+5. 📔 Created new repository [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 18th, 2022, 3:12:21 PM
+Last Updated: Tuesday, January 18th, 2022, 3:42:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
