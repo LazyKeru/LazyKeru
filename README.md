@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
-2. 📔 Created new repository [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
-3. 📔 Created new repository [LazyKeru/UV-AADA-BigMart](https://github.com/LazyKeru/UV-AADA-BigMart)
-4. ✔️ Closed issue [#1](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique/issues/1) in [LazyKeru/UV-AADA-projet-apprentissage-automatique](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique)
-5. ⭐ Starred [RomainGuarinoni/findAMusicianFrontend](https://github.com/RomainGuarinoni/findAMusicianFrontend)
+1. 🔱 Forked [LazyKeru/AADA_2022](https://github.com/LazyKeru/AADA_2022) from [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
+2. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
+3. 📔 Created new repository [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
+4. 📔 Created new repository [LazyKeru/UV-AADA-BigMart](https://github.com/LazyKeru/UV-AADA-BigMart)
+5. ✔️ Closed issue [#1](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique/issues/1) in [LazyKeru/UV-AADA-projet-apprentissage-automatique](https://github.com/LazyKeru/UV-AADA-projet-apprentissage-automatique)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 18th, 2022, 8:44:38 AM
+Last Updated: Tuesday, January 18th, 2022, 9:12:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
