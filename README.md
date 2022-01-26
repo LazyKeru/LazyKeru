@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [LazyKeru/UV-AMSE-OS](https://github.com/LazyKeru/UV-AMSE-OS)
-2. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
-3. 🎉 Merged PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
-4. 💪 Opened PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
-5. 🔱 Forked [LazyKeru/AADA_2022](https://github.com/LazyKeru/AADA_2022) from [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
+1. 📔 Created new repository [LazyKeru/UV-AMSE-DWM](https://github.com/LazyKeru/UV-AMSE-DWM)
+2. 📔 Created new repository [LazyKeru/UV-AMSE-OS](https://github.com/LazyKeru/UV-AMSE-OS)
+3. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
+4. 🎉 Merged PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
+5. 💪 Opened PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 26th, 2022, 8:38:28 AM
+Last Updated: Wednesday, January 26th, 2022, 9:11:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
