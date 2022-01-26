@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [LazyKeru/UV-AMSE-DWM](https://github.com/LazyKeru/UV-AMSE-DWM)
-2. 📔 Created new repository [LazyKeru/UV-AMSE-OS](https://github.com/LazyKeru/UV-AMSE-OS)
-3. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
-4. 🎉 Merged PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
-5. 💪 Opened PR [#1](https://github.com/LazyKeru/SmellsFishy/pull/1) in [LazyKeru/SmellsFishy](https://github.com/LazyKeru/SmellsFishy)
+1. ⭐ Starred [LazyKeru/LazyKeru](https://github.com/LazyKeru/LazyKeru)
+2. ⭐ Starred [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+3. 📔 Created new repository [LazyKeru/UV-AMSE-DWM](https://github.com/LazyKeru/UV-AMSE-DWM)
+4. 📔 Created new repository [LazyKeru/UV-AMSE-OS](https://github.com/LazyKeru/UV-AMSE-OS)
+5. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 26th, 2022, 10:37:55 AM
+Last Updated: Wednesday, January 26th, 2022, 11:09:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
