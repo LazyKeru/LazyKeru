@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LazyKeru/LazyKeru](https://github.com/LazyKeru/LazyKeru)
-2. ⭐ Starred [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
-3. 📔 Created new repository [LazyKeru/UV-AMSE-DWM](https://github.com/LazyKeru/UV-AMSE-DWM)
-4. 📔 Created new repository [LazyKeru/UV-AMSE-OS](https://github.com/LazyKeru/UV-AMSE-OS)
-5. ⭐ Starred [SebAmb/AADA_2022](https://github.com/SebAmb/AADA_2022)
+1. 📔 Created new repository [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
+2. ⭐ Starred [LazyKeru/LazyKeru](https://github.com/LazyKeru/LazyKeru)
+3. ⭐ Starred [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+4. 📔 Created new repository [LazyKeru/UV-AMSE-DWM](https://github.com/LazyKeru/UV-AMSE-DWM)
+5. 📔 Created new repository [LazyKeru/UV-AMSE-OS](https://github.com/LazyKeru/UV-AMSE-OS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 28th, 2022, 12:51:47 PM
+Last Updated: Friday, January 28th, 2022, 1:13:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
