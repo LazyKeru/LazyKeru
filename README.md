@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raphaelpeim/AMSE](https://github.com/raphaelpeim/AMSE)
-2. ⭐ Starred [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
-3. 📔 Created new repository [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
-4. ⭐ Starred [LazyKeru/LazyKeru](https://github.com/LazyKeru/LazyKeru)
-5. ⭐ Starred [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+1. ❗️ Opened issue [#2](https://github.com/LazyKeru/UV-AMSE-DA/issues/2) in [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
+2. ⭐ Starred [raphaelpeim/AMSE](https://github.com/raphaelpeim/AMSE)
+3. ⭐ Starred [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
+4. 📔 Created new repository [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
+5. ⭐ Starred [LazyKeru/LazyKeru](https://github.com/LazyKeru/LazyKeru)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 1:14:27 PM
+Last Updated: Monday, February 7th, 2022, 1:34:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
