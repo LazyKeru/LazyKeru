@@ -13,15 +13,15 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2](https://github.com/LazyKeru/UV-AMSE-DA/issues/2) in [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
-2. ⭐ Starred [raphaelpeim/AMSE](https://github.com/raphaelpeim/AMSE)
-3. ⭐ Starred [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
-4. 📔 Created new repository [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
-5. ⭐ Starred [LazyKeru/LazyKeru](https://github.com/LazyKeru/LazyKeru)
+1. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+2. ❗️ Opened issue [#2](https://github.com/LazyKeru/UV-AMSE-DA/issues/2) in [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
+3. ⭐ Starred [raphaelpeim/AMSE](https://github.com/raphaelpeim/AMSE)
+4. ⭐ Starred [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
+5. 📔 Created new repository [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 15th, 2022, 11:34:01 AM
+Last Updated: Tuesday, February 15th, 2022, 12:17:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
