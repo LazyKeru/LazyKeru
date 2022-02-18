@@ -13,8 +13,16 @@
 ## 🌱 my most recent activity on GitHub
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+2. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+3. ❗️ Opened issue [#2](https://github.com/LazyKeru/UV-AMSE-DA/issues/2) in [LazyKeru/UV-AMSE-DA](https://github.com/LazyKeru/UV-AMSE-DA)
+4. ⭐ Starred [raphaelpeim/AMSE](https://github.com/raphaelpeim/AMSE)
+5. ⭐ Starred [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Friday, February 18th, 2022, 9:35:48 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 
 <!--
