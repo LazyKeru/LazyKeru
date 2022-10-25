@@ -5,9 +5,9 @@
     <div class="body">
         <div>
             <h2>📈 GitHub Stats</h2>
-            <div style="display: flex; align-items: flex-start;">
-                [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyKeru&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyKeru)](https://github.com/anuraghazra/github-readme-stats)
+            <div style="display: flex; align-items: flex-start; justify-content:space-around;">
+                <img src="https://github-readme-stats.vercel.app/api?username=LazyKeru&theme=graywhite&show_icons=true" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyKeru" />
             </div>
         </div>
         <div>
