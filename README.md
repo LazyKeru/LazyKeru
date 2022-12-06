@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
-2. 🎉 Merged PR [#17](https://github.com/LazyKeru/GLO-3102/pull/17) in [LazyKeru/GLO-3102](https://github.com/LazyKeru/GLO-3102)
-3. 💪 Opened PR [#17](https://github.com/LazyKeru/GLO-3102/pull/17) in [LazyKeru/GLO-3102](https://github.com/LazyKeru/GLO-3102)
-4. 🎉 Merged PR [#16](https://github.com/LazyKeru/GLO-3102/pull/16) in [LazyKeru/GLO-3102](https://github.com/LazyKeru/GLO-3102)
-5. 💪 Opened PR [#16](https://github.com/LazyKeru/GLO-3102/pull/16) in [LazyKeru/GLO-3102](https://github.com/LazyKeru/GLO-3102)
+1. 🎉 Merged PR [#1](https://github.com/LazyKeru/lazykeru.github.io/pull/1) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+2. 💪 Opened PR [#1](https://github.com/LazyKeru/lazykeru.github.io/pull/1) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+3. 📔 Created new repository [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+4. 🎉 Merged PR [#17](https://github.com/LazyKeru/GLO-3102/pull/17) in [LazyKeru/GLO-3102](https://github.com/LazyKeru/GLO-3102)
+5. 💪 Opened PR [#17](https://github.com/LazyKeru/GLO-3102/pull/17) in [LazyKeru/GLO-3102](https://github.com/LazyKeru/GLO-3102)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 6th, 2022, 5:14:05 AM
+Last Updated: Tuesday, December 6th, 2022, 5:36:18 AM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
