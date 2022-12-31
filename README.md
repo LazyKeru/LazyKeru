@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [LazyKeru/PortfolioBackend](https://github.com/LazyKeru/PortfolioBackend)
-2. ⭐ Starred [golang/go](https://github.com/golang/go)
-3. 🎉 Merged PR [#5](https://github.com/LazyKeru/lazykeru.github.io/pull/5) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
-4. 💪 Opened PR [#5](https://github.com/LazyKeru/lazykeru.github.io/pull/5) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
-5. ⭐ Starred [Qartar/dwarf-fortress](https://github.com/Qartar/dwarf-fortress)
+1. ⭐ Starred [alexandrelam/ducktape](https://github.com/alexandrelam/ducktape)
+2. 📔 Created new repository [LazyKeru/PortfolioBackend](https://github.com/LazyKeru/PortfolioBackend)
+3. ⭐ Starred [golang/go](https://github.com/golang/go)
+4. 🎉 Merged PR [#5](https://github.com/LazyKeru/lazykeru.github.io/pull/5) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+5. 💪 Opened PR [#5](https://github.com/LazyKeru/lazykeru.github.io/pull/5) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 31st, 2022, 2:12:06 PM
+Last Updated: Saturday, December 31st, 2022, 2:36:04 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
