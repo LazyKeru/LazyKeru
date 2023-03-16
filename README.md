@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-2. ⭐ Starred [alexandrelam/ducktape](https://github.com/alexandrelam/ducktape)
-3. 📔 Created new repository [LazyKeru/PortfolioBackend](https://github.com/LazyKeru/PortfolioBackend)
-4. ⭐ Starred [golang/go](https://github.com/golang/go)
-5. 🎉 Merged PR [#5](https://github.com/LazyKeru/lazykeru.github.io/pull/5) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
+1. ⭐ Starred [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+2. ⭐ Starred [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+3. ⭐ Starred [alexandrelam/ducktape](https://github.com/alexandrelam/ducktape)
+4. 📔 Created new repository [LazyKeru/PortfolioBackend](https://github.com/LazyKeru/PortfolioBackend)
+5. ⭐ Starred [golang/go](https://github.com/golang/go)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 16th, 2023, 7:14:06 AM
+Last Updated: Thursday, March 16th, 2023, 7:36:09 AM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
