@@ -21,7 +21,7 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+1. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 2. ⭐ Starred [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 3. ⭐ Starred [alexandrelam/ducktape](https://github.com/alexandrelam/ducktape)
 4. 📔 Created new repository [LazyKeru/PortfolioBackend](https://github.com/LazyKeru/PortfolioBackend)
@@ -30,7 +30,7 @@
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 20th, 2023, 11:11:23 AM
+Last Updated: Tuesday, June 20th, 2023, 11:35:48 AM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
