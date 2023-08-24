@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
-2. ⭐ Starred [furiko-io/furiko](https://github.com/furiko-io/furiko)
-3. ⭐ Starred [cronhub/crontab](https://github.com/cronhub/crontab)
-4. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-5. ⭐ Starred [golang/go](https://github.com/golang/go)
+1. ⭐ Starred [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)
+2. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
+3. ⭐ Starred [furiko-io/furiko](https://github.com/furiko-io/furiko)
+4. ⭐ Starred [cronhub/crontab](https://github.com/cronhub/crontab)
+5. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 24th, 2023, 9:36:00 PM
+Last Updated: Thursday, August 24th, 2023, 10:12:11 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
