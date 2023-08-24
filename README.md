@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cronhub/crontab](https://github.com/cronhub/crontab)
-2. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-3. ⭐ Starred [alexandrelam/ducktape](https://github.com/alexandrelam/ducktape)
+1. ⭐ Starred [furiko-io/furiko](https://github.com/furiko-io/furiko)
+2. ⭐ Starred [cronhub/crontab](https://github.com/cronhub/crontab)
+3. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 4. 📔 Created new repository [LazyKeru/PortfolioBackend](https://github.com/LazyKeru/PortfolioBackend)
 5. ⭐ Starred [golang/go](https://github.com/golang/go)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 24th, 2023, 7:35:59 AM
+Last Updated: Thursday, August 24th, 2023, 8:16:43 AM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
