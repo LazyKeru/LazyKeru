@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [requarks/wiki](https://github.com/requarks/wiki)
-2. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)
-3. ⭐ Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)
-4. ⭐ Starred [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)
-5. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
+1. ⭐ Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)
+2. ⭐ Starred [requarks/wiki](https://github.com/requarks/wiki)
+3. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)
+4. ⭐ Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)
+5. ⭐ Starred [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 1st, 2023, 7:36:04 AM
+Last Updated: Friday, September 1st, 2023, 8:17:01 AM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
