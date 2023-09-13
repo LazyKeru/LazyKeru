@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-2. ⭐ Starred [davestewart/msal-vue-demo](https://github.com/davestewart/msal-vue-demo)
-3. ⭐ Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)
-4. ⭐ Starred [requarks/wiki](https://github.com/requarks/wiki)
-5. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)
+1. ⭐ Starred [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+2. ⭐ Starred [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+3. ⭐ Starred [davestewart/msal-vue-demo](https://github.com/davestewart/msal-vue-demo)
+4. ⭐ Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)
+5. ⭐ Starred [requarks/wiki](https://github.com/requarks/wiki)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 7:35:53 PM
+Last Updated: Wednesday, September 13th, 2023, 8:12:23 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
