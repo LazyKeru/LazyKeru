@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/LazyKeru/go-kazetenn/pull/1) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-2. 💪 Opened PR [#1](https://github.com/LazyKeru/go-kazetenn/pull/1) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-3. 📔 Created new repository [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-4. ⭐ Starred [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. ⭐ Starred [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+1. 🎉 Merged PR [#2](https://github.com/LazyKeru/go-kazetenn/pull/2) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+2. 💪 Opened PR [#2](https://github.com/LazyKeru/go-kazetenn/pull/2) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+3. 🎉 Merged PR [#1](https://github.com/LazyKeru/go-kazetenn/pull/1) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+4. 💪 Opened PR [#1](https://github.com/LazyKeru/go-kazetenn/pull/1) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+5. 📔 Created new repository [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 14th, 2023, 7:35:53 PM
+Last Updated: Saturday, October 14th, 2023, 8:13:02 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
