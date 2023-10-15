@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/LazyKeru/go-kazetenn/pull/2) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-2. 💪 Opened PR [#2](https://github.com/LazyKeru/go-kazetenn/pull/2) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-3. 🎉 Merged PR [#1](https://github.com/LazyKeru/go-kazetenn/pull/1) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-4. 💪 Opened PR [#1](https://github.com/LazyKeru/go-kazetenn/pull/1) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-5. 📔 Created new repository [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+1. 🎉 Merged PR [#3](https://github.com/LazyKeru/go-kazetenn/pull/3) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+2. 💪 Opened PR [#3](https://github.com/LazyKeru/go-kazetenn/pull/3) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+3. 🎉 Merged PR [#2](https://github.com/LazyKeru/go-kazetenn/pull/2) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+4. 💪 Opened PR [#2](https://github.com/LazyKeru/go-kazetenn/pull/2) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+5. 🎉 Merged PR [#1](https://github.com/LazyKeru/go-kazetenn/pull/1) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 15th, 2023, 9:35:53 AM
+Last Updated: Sunday, October 15th, 2023, 10:13:11 AM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
