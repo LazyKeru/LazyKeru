@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release)
-2. 🎉 Merged PR [#4](https://github.com/LazyKeru/go-kazetenn/pull/4) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-3. 💪 Opened PR [#4](https://github.com/LazyKeru/go-kazetenn/pull/4) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-4. ⭐ Starred [devploit/dontgo403](https://github.com/devploit/dontgo403)
-5. 🎉 Merged PR [#3](https://github.com/LazyKeru/go-kazetenn/pull/3) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+1. 🎉 Merged PR [#1](https://github.com/LazyKeru/go-portfolio-backend/pull/1) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+2. 💪 Opened PR [#1](https://github.com/LazyKeru/go-portfolio-backend/pull/1) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+3. ⭐ Starred [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release)
+4. 🎉 Merged PR [#4](https://github.com/LazyKeru/go-kazetenn/pull/4) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+5. 💪 Opened PR [#4](https://github.com/LazyKeru/go-kazetenn/pull/4) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 7th, 2023, 10:36:06 PM
+Last Updated: Tuesday, November 7th, 2023, 11:13:34 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
