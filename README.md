@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/LazyKeru/go-portfolio-backend/pull/1) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-2. 💪 Opened PR [#1](https://github.com/LazyKeru/go-portfolio-backend/pull/1) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-3. ⭐ Starred [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release)
-4. 🎉 Merged PR [#4](https://github.com/LazyKeru/go-kazetenn/pull/4) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
-5. 💪 Opened PR [#4](https://github.com/LazyKeru/go-kazetenn/pull/4) in [LazyKeru/go-kazetenn](https://github.com/LazyKeru/go-kazetenn)
+1. 🎉 Merged PR [#2](https://github.com/LazyKeru/go-portfolio-backend/pull/2) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+2. 💪 Opened PR [#2](https://github.com/LazyKeru/go-portfolio-backend/pull/2) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+3. 🎉 Merged PR [#1](https://github.com/LazyKeru/go-portfolio-backend/pull/1) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+4. 💪 Opened PR [#1](https://github.com/LazyKeru/go-portfolio-backend/pull/1) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+5. ⭐ Starred [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 12th, 2023, 8:35:57 PM
+Last Updated: Sunday, November 12th, 2023, 9:10:53 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
