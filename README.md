@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/LazyKeru/lazykeru.github.io/pull/6) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
-2. 💪 Opened PR [#6](https://github.com/LazyKeru/lazykeru.github.io/pull/6) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
-3. 🎉 Merged PR [#4](https://github.com/LazyKeru/go-portfolio-backend/pull/4) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-4. 💪 Opened PR [#4](https://github.com/LazyKeru/go-portfolio-backend/pull/4) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-5. 🎉 Merged PR [#3](https://github.com/LazyKeru/go-portfolio-backend/pull/3) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+1. 🎉 Merged PR [#6](https://github.com/LazyKeru/go-portfolio-backend/pull/6) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+2. 💪 Opened PR [#6](https://github.com/LazyKeru/go-portfolio-backend/pull/6) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+3. 🎉 Merged PR [#5](https://github.com/LazyKeru/go-portfolio-backend/pull/5) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+4. 💪 Opened PR [#5](https://github.com/LazyKeru/go-portfolio-backend/pull/5) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+5. 🎉 Merged PR [#6](https://github.com/LazyKeru/lazykeru.github.io/pull/6) in [LazyKeru/lazykeru.github.io](https://github.com/LazyKeru/lazykeru.github.io)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 16th, 2023, 10:13:06 PM
+Last Updated: Thursday, November 16th, 2023, 10:35:48 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
