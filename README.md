@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/LazyKeru/go-portfolio-backend/pull/7) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-2. 💪 Opened PR [#7](https://github.com/LazyKeru/go-portfolio-backend/pull/7) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-3. 🎉 Merged PR [#6](https://github.com/LazyKeru/go-portfolio-backend/pull/6) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-4. 💪 Opened PR [#6](https://github.com/LazyKeru/go-portfolio-backend/pull/6) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
-5. 🎉 Merged PR [#5](https://github.com/LazyKeru/go-portfolio-backend/pull/5) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+1. 🎉 Merged PR [#8](https://github.com/LazyKeru/go-portfolio-backend/pull/8) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+2. 💪 Opened PR [#8](https://github.com/LazyKeru/go-portfolio-backend/pull/8) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+3. 🎉 Merged PR [#7](https://github.com/LazyKeru/go-portfolio-backend/pull/7) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+4. 💪 Opened PR [#7](https://github.com/LazyKeru/go-portfolio-backend/pull/7) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
+5. 🎉 Merged PR [#6](https://github.com/LazyKeru/go-portfolio-backend/pull/6) in [LazyKeru/go-portfolio-backend](https://github.com/LazyKeru/go-portfolio-backend)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 20th, 2023, 9:36:05 PM
+Last Updated: Monday, November 20th, 2023, 10:13:49 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
