@@ -21,16 +21,16 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [derailed/popeye](https://github.com/derailed/popeye)
-2. ⭐ Starred [LazyKeru/SecurityWorkflow](https://github.com/LazyKeru/SecurityWorkflow)
-3. 📔 Created new repository [LazyKeru/ollama-coach](https://github.com/LazyKeru/ollama-coach)
-4. ⭐ Starred [storax/kubedoom](https://github.com/storax/kubedoom)
-5. 📔 Created new repository [LazyKeru/advent-2023](https://github.com/LazyKeru/advent-2023)
+1. ⭐ Starred [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+2. ⭐ Starred [derailed/popeye](https://github.com/derailed/popeye)
+3. ⭐ Starred [LazyKeru/SecurityWorkflow](https://github.com/LazyKeru/SecurityWorkflow)
+4. 📔 Created new repository [LazyKeru/ollama-coach](https://github.com/LazyKeru/ollama-coach)
+5. ⭐ Starred [storax/kubedoom](https://github.com/storax/kubedoom)
                 <!--RECENT_ACTIVITY:end-->
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 12th, 2024, 7:11:27 PM
+Last Updated: Friday, January 12th, 2024, 7:36:06 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
