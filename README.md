@@ -21,8 +21,8 @@
             <h2>🌱 my most recent activity on GitHub</h2>
             <div>
                 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
-2. ⭐ Starred [derailed/popeye](https://github.com/derailed/popeye)
+1. ⭐ Starred [gopasspw/gopass](https://github.com/gopasspw/gopass)
+2. ⭐ Starred [geekan/MetaGPT](https://github.com/geekan/MetaGPT)
 3. ⭐ Starred [LazyKeru/SecurityWorkflow](https://github.com/LazyKeru/SecurityWorkflow)
 4. 📔 Created new repository [LazyKeru/ollama-coach](https://github.com/LazyKeru/ollama-coach)
 5. ⭐ Starred [storax/kubedoom](https://github.com/storax/kubedoom)
@@ -30,7 +30,7 @@
             </div>
             <div>
                 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 28th, 2024, 12:48:44 PM
+Last Updated: Thursday, March 28th, 2024, 1:15:25 PM
                 <!--RECENT_ACTIVITY:last_update_end-->
             </div>
         </div>
